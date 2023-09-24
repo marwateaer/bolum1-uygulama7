@@ -1,0 +1,9 @@
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\bin\Debug\uygulama16.exe.config
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\bin\Debug\uygulama16.exe
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\bin\Debug\uygulama16.pdb
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.csprojResolveAssemblyReference.cache
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.Form1.resources
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.Properties.Resources.resources
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.csproj.GenerateResource.Cache
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.exe
+c:\users\moham\onedrive\المستندات\visual studio 2015\Projects\uygulama16\uygulama16\obj\Debug\uygulama16.pdb
